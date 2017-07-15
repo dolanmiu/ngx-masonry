@@ -64,5 +64,8 @@
   },
   "engines": {
     "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "masonry-layout": "^4.2.0"
   }
 }
